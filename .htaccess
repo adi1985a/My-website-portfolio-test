@@ -1,0 +1,12 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule reklame-nettsider-programmering-markedsforing index.html
+RewriteRule hvem-vi-er kimjestem.html
+RewriteRule vart-tilbud oferta.html
+RewriteRule var-portefolje-php-javascript cv.html
+RewriteRule kontakt-programmerer-php kontakt.html
