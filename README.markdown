@@ -26,7 +26,7 @@ _An HTML, CSS, and JavaScript-based portfolio website showcasing design and deve
 **NettDesignMagi** (Web Design Magic) is a static portfolio website developed by Adrian Lesniak, designed to showcase a range of creative services including graphic design, web development, and software development (specializing in C++, Java, Python). Built with HTML, custom CSS (`style.css`), and JavaScript (`timer.js`), the site features a dynamic real-time clock, interactive navigation tiles that are intended to load content dynamically, and prominent social media links using Fontello icons. The primary language of the content is Norwegian, and it incorporates Google Fonts (Josefin Sans, Lato) for typography. SEO considerations are included with meta tags for description and keywords.
 
 <p align="center">
-  <img src="screenshots/1.gif" width="70%">
+  <img src="screenshots/1.gif" width="85%">
 </p>
 
 ## ✨ Key Features
@@ -69,8 +69,6 @@ _Screenshots of: the website's header with the dynamic clock and logo, the inter
   <img src="screenshots\6.jpg" width="300"/>
   <img src="screenshots\7.jpg" width="300"/>
   <img src="screenshots\8.jpg" width="300"/>
-  <img src="screenshots\9.jpg" width="300"/>
-  <img src="screenshots\10jpg" width="300"/>
 </p>
 
 ## 🛠️ Technical Stack & Requirements
